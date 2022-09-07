@@ -1,0 +1,39 @@
+Paramètres de l'application EsiConnect.
+Merci de ne pas ouvrir le lien bit.ly afin de ne pas biaiser les statistiques d'utilisation d'EsiConnect.
+
+------------------------------------------------------
+Paramètres généraux :
+
+#Message affiché au lancement de l'application, aucun effet si None
+START_MSG=None
+
+#Dernière version disponible
+LAST_VERSION=2
+
+#Code d'accès au système de statistiques
+STATS_URL=https://bit.ly/3dzDnSw
+
+#Début de l'url permettant de télécharger l'emploi du temps
+EDT_URL=https://edt.grenoble-inp.fr/directCal/2022-2023/etudiant/esisar?resources
+
+#Décalage horaire actuel
+TIME_OFFSET=2
+
+#Identifiants des promotions de 1A et 2A
+PROMO_IDs=1ATP1:12328;1ATP2:12329;1ATP3:12326;1ATP4:12325;2ATP1:12400;2ATP2:12399;2ATP3:12395;2ATP4:12396
+------------------------------------------------------
+
+
+
+------------------------------------------------------
+Paramètres esthétiques :
+Contacter BlendSkill#0217 sur Discord pour demander des modifications.
+
+#Personnalisation des noms des matières. Pas utilisé pour l'instant.
+#Format de la liste : [NOM OFFICIEL]:[NOUVEAU NOM];
+#SUB_NAMES=
+
+#Personnalisation des couleurs des matières.
+#Utiliser le nom final de la matière, après modification par SUB_NAMES. Format de la liste : [NOM]:[ROUGE]~[VERT]~[BLEU];
+SUB_COLORS=PH251:255~147~102;MA221:255~217~102;CE221:119~141~239;AC211:127~228~57;CS221:115~199~221;MB211:255~182~241;EE221:235~240~60;
+------------------------------------------------------
