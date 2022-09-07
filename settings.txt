@@ -10,9 +10,6 @@ START_MSG=None
 #Dernière version disponible
 LAST_VERSION=2
 
-#Code d'accès au système de statistiques
-STATS_URL=https://bit.ly/3dzDnSw
-
 #Début de l'url permettant de télécharger l'emploi du temps
 EDT_URL=https://edt.grenoble-inp.fr/directCal/2022-2023/etudiant/esisar?resources
 
