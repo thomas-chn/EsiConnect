@@ -24,7 +24,6 @@ PROMO_IDs=1ATP1:12328;1ATP2:12329;1ATP3:12326;1ATP4:12325;2ATP1:12400;2ATP2:1239
 ------------------------------------------------------
 
 
-
 ------------------------------------------------------
 Paramètres esthétiques :
 Contacter BlendSkill#0217 sur Discord pour demander des modifications.
