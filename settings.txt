@@ -1,5 +1,4 @@
 Paramètres de l'application EsiConnect.
-Merci de ne pas ouvrir le lien bit.ly afin de ne pas biaiser les statistiques d'utilisation d'EsiConnect.
 
 ------------------------------------------------------
 Paramètres généraux :
