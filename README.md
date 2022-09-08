@@ -3,7 +3,7 @@ EsiConnect est une application permettant d'accéder rapidement à la messagerie
 Pour utiliser EsiConnect vous aurez besoin de vos identifiants Grenet.
 
 Si vous êtes en 1A ou en 2A, sélectionnez simplement votre promotion et votre TP sur la page de connexion.
-Si vous êtes dans une autre promo, cocher la case "Identifiant de promo personnalisé" et suivez les étapes suivantes pour obtenir l'identifiant.
+Si vous êtes dans une autre promo, cochez la case "Identifiant de promo personnalisé" et suivez les étapes suivantes pour obtenir l'identifiant.
 
 #### Obtenir un identifiant personnalisé
 1) Rendez-vous sur l'emploi du temps officiel
