@@ -25,9 +25,9 @@ Contacter BlendSkill#0217 sur Discord pour demander des modifications.
 
 #Personnalisation des noms des matières. Pas utilisé pour l'instant.
 #Format de la liste : [NOM OFFICIEL]:[NOUVEAU NOM];
-#SUB_NAMES=
+SUB_NAMES=CS221 TDm1:CS221
 
 #Personnalisation des couleurs des matières.
 #Utiliser le nom final de la matière, après modification par SUB_NAMES. Format de la liste : [NOM]:[ROUGE]~[VERT]~[BLEU];
-SUB_COLORS=PH251:255~147~102;MA221:255~217~102;CE221:119~141~239;AC211:127~228~57;CS221:115~199~221;MB211:255~182~241;EE221:235~240~60;
+SUB_COLORS=PH251:255~147~102;MA221:255~217~102;CE221:119~141~239;AC211:127~228~57;CS221:115~199~221;MB211:255~182~241;EE221:235~240~60;LA201:177~116~252
 ------------------------------------------------------
