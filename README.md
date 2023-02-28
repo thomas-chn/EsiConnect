@@ -3,6 +3,7 @@ EsiConnect is an Android application that allows quick access to several online 
 
 The application was made on MIT App Inventor because it's a small project and I have not yet trained in programming on Android.
 
+<br />
 
 ### Tutorial part in French:
 #### Comment se connecter ?
