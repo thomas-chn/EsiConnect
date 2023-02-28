@@ -4,7 +4,6 @@ EsiConnect is an Android application that allows quick access to several online 
 
 #### Comment se connecter ?
 Le champ "Identifiant" doit contenir votre identifiant composé généralement de votre nom + la première lettre de votre prénom.
-
 Le champ "Mail" doit contenir l'adresse mail que vous utilisez pour accéder à la messagerie.
 
 Si vous être en 1A ou 2A, sélecionnez simplement votre promo et votre TP.
