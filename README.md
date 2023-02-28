@@ -1,13 +1,15 @@
 # EsiConnect
-EsiConnect est une application permettant d'accéder rapidement à la messagerie Zimbra, au service de partage de fichier Chamilo, et à une version simplifiée et améliorée de l'emploi du temps.
-Pour utiliser EsiConnect vous aurez besoin de vos identifiants Grenet.
+EsiConnect is an Android application that allows quick access to several online services of the Esisar school. By providing your personal Esisar credentials, you can check your email, access Chamilo, and consult your schedule. The schedule is completely reformatted and color-coded for better readability.
 
-Si vous êtes en 1A ou en 2A, sélectionnez simplement votre promotion et votre TP sur la page de connexion.
-Si vous êtes dans une autre promo, cochez la case "Identifiant de promo personnalisé" et suivez les étapes suivantes pour obtenir l'identifiant.
 
-#### Obtenir un identifiant personnalisé
-1) Rendez-vous sur l'emploi du temps officiel
-2) Cochez la case correspondant à votre TP. Les emplois du temps de promo ou de TD ne sont pas valides car ils comportent des matières divisées entre plusieurs groupes, qui ne sont pas prises en charge.
-3) Cliquez sur "Export Agenda..." en bas à gauche.
-4) Cliquez sur "Générer URL"
-5) L'identifiant de votre TP est le nombre situé après "?resources=" à la fin de l'url généré.
+#### Comment se connecter ?
+Le champ "Identifiant" doit contenir votre identifiant composé généralement de votre nom + la première lettre de votre prénom.
+Le champ "Mail" doit contenir l'adresse mail que vous utilisez pour accéder à la messagerie.
+
+Si vous être en 1A ou 2A, sélecionnez simplement votre promo et votre TP.
+Si ce n'est pas le cas, vous devez obtenir l'identifiant de votre groupe :
+1) Allez sur l'emploi du temps officiel
+2) Sélectionnez votre groupe
+3) Cliquez sur "Export Agenda..." en bas à gauche
+4) Cliquez sur "Générer URL" sans modifier les options
+5) Votre identifiant de groupe est le numéro écrit à la fin de l'URL, précédé de "resources="
