@@ -1,12 +1,9 @@
-Paramètres de l'application EsiConnect.
-
-------------------------------------------------------
-Paramètres généraux :
+# Paramètres de l'application EsiConnect.
 
 #Dernière version disponible
 LAST_VERSION=3
 
-#Message affiché au lancement de l'application, aucun effet si None
+#Message affiché au lancement de l'application, aucun si START_MSG vaut None
 START_MSG=None
 
 #Début de l'url permettant de télécharger l'emploi du temps
@@ -16,5 +13,5 @@ EDT_URL=https://edt.grenoble-inp.fr/directCal/2023-2024/etudiant/esisar?resource
 TIME_OFFSET=2
 
 #Identifiants des promotions de 1A et 2A
-PROMO_IDs=1ATP1:12328;1ATP2:12329;1ATP3:12326;1ATP4:12325;2ATP1:12400;2ATP2:12399;2ATP3:12395;2ATP4:12396
-------------------------------------------------------
+GROUP_IDs=1ATP1:12328;1ATP2:12329;1ATP3:12326;1ATP4:12325;2ATP1:12400;2ATP2:12399;2ATP3:12395;2ATP4:12396
+
