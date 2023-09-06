@@ -9,11 +9,13 @@ The application was made on MIT App Inventor because it's a small project and I 
 #### Comment se connecter ?
 Le champ "Identifiant" doit contenir votre identifiant composé généralement de votre nom + la première lettre de votre prénom.
 Le champ "Mail" doit contenir l'adresse mail que vous utilisez pour accéder à la messagerie.
+Sélectionnez votre groupe d'emploi du temps s'il est disponible.
+Sinon, sélectionnez le groupe "Personnalisé" et entrez vous même le numéro de votre groupe.
 
-Si vous être en 1A ou 2A, sélecionnez simplement votre promo et votre TP.
-Si ce n'est pas le cas, vous devez obtenir l'identifiant de votre groupe :
-1) Allez sur l'emploi du temps officiel
+Pour obtenir votre numéro de groupe :
+1) Allez sur l'emploi du temps officiel : https://edt.grenoble-inp.fr/2023-2024/etudiant/esisar
 2) Sélectionnez votre groupe
 3) Cliquez sur "Export Agenda..." en bas à gauche
 4) Cliquez sur "Générer URL" sans modifier les options
 5) Votre identifiant de groupe est le numéro écrit à la fin de l'URL, précédé de "resources="
+**Attention, vous devez sélectionner un groupe de niveau le plus bas, qui ne contient pas de sous-catégorie.**
