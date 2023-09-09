@@ -1,7 +1,7 @@
 # Paramètres de l'application EsiConnect.
 
 #Dernière version disponible
-LAST_VERSION=3
+LAST_VERSION=4
 
 #Message affiché au lancement de l'application, aucun si START_MSG vaut None
 START_MSG=None
